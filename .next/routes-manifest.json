@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/_not-found",
+      "regex": "^/_not\\-found(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/_not\\-found(?:/)?$"
+    },
+    {
+      "page": "/about",
+      "regex": "^/about(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/about(?:/)?$"
+    },
+    {
+      "page": "/career",
+      "regex": "^/career(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/career(?:/)?$"
+    },
+    {
+      "page": "/digital-marketing",
+      "regex": "^/digital\\-marketing(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/digital\\-marketing(?:/)?$"
+    },
+    {
+      "page": "/favicon.ico",
+      "regex": "^/favicon\\.ico(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/favicon\\.ico(?:/)?$"
+    },
+    {
+      "page": "/homepage/sections/herosection",
+      "regex": "^/homepage/sections/herosection(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/homepage/sections/herosection(?:/)?$"
+    },
+    {
+      "page": "/homepage/sections/mobileCaraouse",
+      "regex": "^/homepage/sections/mobileCaraouse(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/homepage/sections/mobileCaraouse(?:/)?$"
+    },
+    {
+      "page": "/it/Progressiveapp",
+      "regex": "^/it/Progressiveapp(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/Progressiveapp(?:/)?$"
+    },
+    {
+      "page": "/it/mobileapplication/android-apps",
+      "regex": "^/it/mobileapplication/android\\-apps(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/mobileapplication/android\\-apps(?:/)?$"
+    },
+    {
+      "page": "/it/mobileapplication/hybrid-apps",
+      "regex": "^/it/mobileapplication/hybrid\\-apps(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/mobileapplication/hybrid\\-apps(?:/)?$"
+    },
+    {
+      "page": "/it/mobileapplication/ios-apps",
+      "regex": "^/it/mobileapplication/ios\\-apps(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/mobileapplication/ios\\-apps(?:/)?$"
+    },
+    {
+      "page": "/it/mobileapplication/progressive-apps",
+      "regex": "^/it/mobileapplication/progressive\\-apps(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/mobileapplication/progressive\\-apps(?:/)?$"
+    },
+    {
+      "page": "/it/website/corporate-website",
+      "regex": "^/it/website/corporate\\-website(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it/website/corporate\\-website(?:/)?$"
+    },
+    {
+      "page": "/it-services",
+      "regex": "^/it\\-services(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/it\\-services(?:/)?$"
+    },
+    {
+      "page": "/project",
+      "regex": "^/project(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/project(?:/)?$"
+    },
+    {
+      "page": "/solutions/data-science/big-data",
+      "regex": "^/solutions/data\\-science/big\\-data(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/solutions/data\\-science/big\\-data(?:/)?$"
+    },
+    {
+      "page": "/solutions/data-science/data-analysis",
+      "regex": "^/solutions/data\\-science/data\\-analysis(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/solutions/data\\-science/data\\-analysis(?:/)?$"
+    },
+    {
+      "page": "/solutions/data-science/data-mining",
+      "regex": "^/solutions/data\\-science/data\\-mining(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/solutions/data\\-science/data\\-mining(?:/)?$"
+    },
+    {
+      "page": "/solutions/data-science/machine-learning",
+      "regex": "^/solutions/data\\-science/machine\\-learning(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/solutions/data\\-science/machine\\-learning(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "RSC",
+    "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",
+    "prefetchHeader": "Next-Router-Prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "Next-Router-Segment-Prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments"
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  },
+  "rewrites": []
+}

@@ -1,0 +1,18 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/career/page": "/career",
+  "/digital-marketing/page": "/digital-marketing",
+  "/homepage/sections/herosection/page": "/homepage/sections/herosection",
+  "/homepage/sections/mobileCaraouse/page": "/homepage/sections/mobileCaraouse",
+  "/it-services/page": "/it-services",
+  "/it/Progressiveapp/page": "/it/Progressiveapp",
+  "/it/mobileapplication/android-apps/page": "/it/mobileapplication/android-apps",
+  "/it/mobileapplication/hybrid-apps/page": "/it/mobileapplication/hybrid-apps",
+  "/it/mobileapplication/ios-apps/page": "/it/mobileapplication/ios-apps",
+  "/it/mobileapplication/progressive-apps/page": "/it/mobileapplication/progressive-apps",
+  "/it/website/corporate-website/page": "/it/website/corporate-website",
+  "/page": "/",
+  "/project/page": "/project"
+}

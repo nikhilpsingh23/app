@@ -1,0 +1,46 @@
+{
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 472,
+    "files": [
+      "static/chunks/472.a3826d29d6854395.js"
+    ]
+  },
+  "..\\node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 9341,
+    "files": [
+      "static/chunks/341.2903e54d3da731c1.js"
+    ]
+  },
+  "components\\client-wrapper.tsx -> @/app/homepage/sections/cardSection": {
+    "id": 2578,
+    "files": [
+      "static/chunks/578.b4e7b84d0417d6f6.js"
+    ]
+  },
+  "components\\client-wrapper.tsx -> @/app/homepage/sections/client": {
+    "id": 1802,
+    "files": [
+      "static/chunks/802.b73bb6f1063c7231.js"
+    ]
+  },
+  "components\\client-wrapper.tsx -> @/app/homepage/sections/mobileCaraouse/page": {
+    "id": 7412,
+    "files": [
+      "static/chunks/788-a41a34480dc6b192.js",
+      "static/chunks/412.d47c584a664a18bc.js"
+    ]
+  },
+  "components\\client-wrapper.tsx -> @/app/homepage/sections/overlay": {
+    "id": 9922,
+    "files": [
+      "static/chunks/788-a41a34480dc6b192.js",
+      "static/chunks/541.bc6762adf329e5ae.js"
+    ]
+  },
+  "components\\client-wrapper.tsx -> @/app/homepage/sections/scroll-card": {
+    "id": 4735,
+    "files": [
+      "static/chunks/735.ef0051ea54d801d5.js"
+    ]
+  }
+}
